@@ -1,8 +1,9 @@
 # WHMCS magyar nyelvi fájl
 
-Ebben a repóban osztom meg a WHMCS magyar nyelvi fájl javított fordításait.
+WHMCS magyar nyelvi fájl javított fordításai.
 
-**A fordítás még nagyon hiányos.**
+**A fordítás még hiányos.**
+**Minden segítségnek örülök**
 
 ---
 
