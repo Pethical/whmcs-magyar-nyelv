@@ -12,11 +12,10 @@
  *   http://docs.whmcs.com/Language_Overrides
  *
  * @package    WHMCS
- * @author     WHMCS Limited <development@whmcs.com>
- * @copyright  Copyright (c) WHMCS Limited 2005-2015
- * @license    http://www.whmcs.com/license/ WHMCS Eula
- * @version    $Id$
- * @link       http://www.whmcs.com/
+ * @author     Pethical
+ * @copyright  Pethical
+ * @license    MTI
+ * @version    $Id$  
  */
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
